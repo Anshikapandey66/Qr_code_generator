@@ -1,5 +1,5 @@
 import qrcode
-
+ 
 data = input("Enter text or URL: ")
 
 qr = qrcode.make(data)
